@@ -1,0 +1,2 @@
+rootProject.name='Text_Save_Internal_Storage'
+include ':app'
